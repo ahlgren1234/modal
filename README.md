@@ -2,6 +2,8 @@
 
 Test it out at: modal-ahlgren1234.vercel.app
 
+Edit: Added a responsive navigation bar to the app too.
+
 ---------------------------------------------
 
 # Getting Started with Create React App
